@@ -1,0 +1,29 @@
+body{
+    font-family: Josefin-Sans!important;
+}
+
+
+
+
+h3{
+    color: blue;
+} .buttons{
+    border: 0;
+    text-decoration: none;
+   background-color: rgba(240, 255, 255, 0.13);
+}
+.main-section{
+    background-color:#E9EAEF ;
+    
+}
+.box{
+    box-sizing: content-box;
+}
+button{
+    color: rgb(23, 23, 231);
+    
+
+}
+    
+
+
